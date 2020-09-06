@@ -15,5 +15,5 @@
 * NPM       = 1806148656
 * Almamater = Universitas Indonesia 
 
-# Link File Proteus 
-[GitHub](https://drive.google.com/file/d/1vCfnwrwRG9YqtY92gt6CsQA8tG3Pfj-R/view?usp=sharing)
+# Link Proteus's File
+[Automatic Level Water Gate](https://drive.google.com/file/d/1vCfnwrwRG9YqtY92gt6CsQA8tG3Pfj-R/view?usp=sharing)
